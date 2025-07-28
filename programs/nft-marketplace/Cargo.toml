@@ -19,5 +19,5 @@ idl-build = ["anchor-lang/idl-build"]
 
 [dependencies]
 anchor-lang = { version = "0.31.1", features = ["init-if-needed"] }
-anchor-spl = { version = "0.31.1", features = ["spl-token"] }
+anchor-spl = { version = "0.31.1", features = ["metadata"] }
 
